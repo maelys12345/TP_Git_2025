@@ -1,4 +1,5 @@
-#/bin/bash[D[D[D[D[D[D[D[D[D![C[C[C[C[C[C[C[C
+#!/bin/bash
 
-echo "Hello World"
+val_to_print=$1
+echo $val_to_print
 exit
